@@ -5,7 +5,7 @@
 ### For running this project you need to first install openvino runtime. The instructions for the same can be found <a href = "https://github.com/openvinotoolkit/openvino_notebooks/wiki/Conda"> here.</a>
 ### Once you have installed openvino library, follow the following instructions
 
-#### Step 1: `git clone git@github.com:karol767/humen-pose-estimation.git`
+#### Step 1: `git clone git@github.com:karol767/human-pose-estimation.git`
 #### Step 2: `cd Human-Pose-Estimation`
 #### Step 3: `python pose_estimation.py`
 
